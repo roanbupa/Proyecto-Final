@@ -1,0 +1,77 @@
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\bin\UI.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\bin\UI.pdb
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\bin\Entidades.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\bin\Logica.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\bin\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\bin\Entidades.pdb
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\bin\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\bin\Persistencia.pdb
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\obj\Debug\UI.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\UI\obj\Debug\UI.pdb
+C:\Users\tickantel\Desktop\Proyecto\UI\bin\UI.dll
+C:\Users\tickantel\Desktop\Proyecto\UI\bin\UI.pdb
+C:\Users\tickantel\Desktop\Proyecto\UI\bin\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto\UI\bin\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto\UI\bin\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto\UI\bin\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto\UI\bin\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto\UI\bin\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto\UI\obj\Debug\UI.dll
+C:\Users\tickantel\Desktop\Proyecto\UI\obj\Debug\UI.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\bin\UI.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\bin\UI.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\bin\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\bin\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\bin\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\bin\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\bin\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\bin\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\obj\Debug\UI.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\UI\obj\Debug\UI.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\bin\UI.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\bin\UI.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\bin\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\bin\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\bin\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\bin\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\bin\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\bin\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\obj\Debug\UI.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\UI\obj\Debug\UI.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\bin\UI.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\bin\UI.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\bin\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\bin\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\bin\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\bin\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\bin\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\bin\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\obj\Debug\UI.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\UI\obj\Debug\UI.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\bin\UI.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\bin\UI.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\bin\Entidades.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\bin\Logica.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\bin\Persistencia.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\bin\Entidades.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\bin\Logica.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\bin\Persistencia.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\obj\Debug\UI.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\UI\obj\Debug\UI.pdb
+C:\Users\tickantel\Desktop\prubea1\UI\bin\UI.dll
+C:\Users\tickantel\Desktop\prubea1\UI\bin\UI.pdb
+C:\Users\tickantel\Desktop\prubea1\UI\bin\Entidades.dll
+C:\Users\tickantel\Desktop\prubea1\UI\bin\Logica.dll
+C:\Users\tickantel\Desktop\prubea1\UI\bin\Persistencia.dll
+C:\Users\tickantel\Desktop\prubea1\UI\bin\Entidades.pdb
+C:\Users\tickantel\Desktop\prubea1\UI\bin\Logica.pdb
+C:\Users\tickantel\Desktop\prubea1\UI\bin\Persistencia.pdb
+C:\Users\tickantel\Desktop\prubea1\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\prubea1\UI\obj\Debug\UI.dll
+C:\Users\tickantel\Desktop\prubea1\UI\obj\Debug\UI.pdb

@@ -1,0 +1,12 @@
+-cuando hay un error al ingresar una solicitud de entrega el numero de 
+	sistema se autogenera igual, cuando ingresas todos los datos de manera correcta
+	te saltea el numero anterior.
+
+-Preguntas si hay que controlar en el dll, en solicitud de entrega no se pueda
+	ingresar dos veces el mismo mismo nro de paquete con el mismo rut.
+
+-ABM PAQUETES  -A la hora de eliminar paquete consultar si se pueden eliminar los que aun no fueron
+	entregados
+
+-DEFAULT, para mostrar las solicitudes si es necesario pasar el paquete y empresa 
+	como constructor completo 

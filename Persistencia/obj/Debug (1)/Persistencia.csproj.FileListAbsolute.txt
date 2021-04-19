@@ -1,0 +1,42 @@
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Persistencia\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto\Persistencia\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Persistencia\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Persistencia\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Persistencia\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Persistencia\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Persistencia\obj\Debug\Persistencia.pdb

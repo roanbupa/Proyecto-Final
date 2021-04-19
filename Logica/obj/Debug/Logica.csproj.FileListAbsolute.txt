@@ -1,0 +1,315 @@
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Logica\obj\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto Final PRO 2020\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto Final\Proyecto Final PRO 2020\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final PRO 2020\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final Ultima version nacho\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\drive-download-20210109T233938Z-001\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\prubea1\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\prubea1\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\prubea1\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\prubea1\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\prubea1\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\prubea1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\prubea1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\prubea1\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\prubea1\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Downloads\Proyecto Final\Proyecto Final Ultima version nacho\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Downloads\Proyecto Final\Proyecto Final Ultima version nacho\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Downloads\Proyecto Final\Proyecto Final Ultima version nacho\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Downloads\Proyecto Final\Proyecto Final Ultima version nacho\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Downloads\Proyecto Final\Proyecto Final Ultima version nacho\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Downloads\Proyecto Final\Proyecto Final Ultima version nacho\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Downloads\Proyecto Final\Proyecto Final Ultima version nacho\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\Proyecto Final\Proyecto Final Ultima version nacho\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Downloads\Proyecto Final\Proyecto Final Ultima version nacho\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 11-1\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final 11-1\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 11-1\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto Final 11-1\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final 11-1\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 11-1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 11-1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Final 11-1\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final 11-1\Logica\obj\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto Final 12-1\Logica\bin\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto Final 12-1\Logica\bin\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto Final 12-1\Logica\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Proyecto Final 12-1\Logica\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto Final 12-1\Logica\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Proyecto Final 12-1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Proyecto Final 12-1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Proyecto Final 12-1\Logica\obj\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto Final 12-1\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Downloads\Proyecto Final 12-1\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Downloads\Proyecto Final 12-1\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Downloads\Proyecto Final 12-1\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Downloads\Proyecto Final 12-1\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Downloads\Proyecto Final 12-1\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Downloads\Proyecto Final 12-1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Downloads\Proyecto Final 12-1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\Proyecto Final 12-1\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Downloads\Proyecto Final 12-1\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 13-1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Final 13-1\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final 13-1\Logica\obj\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Proyecto Final 13-1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Proyecto Final 13-1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Proyecto Final 13-1\Logica\obj\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto Final 13-1\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 14-1\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final 14-1\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 14-1\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto Final 14-1\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto Final 14-1\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 14-1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto Final 14-1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto Final 14-1\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto Final 14-1\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\drive-download-20210114T154053Z-001\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\drive-download-20210114T154053Z-001\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\drive-download-20210114T154053Z-001\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\drive-download-20210114T154053Z-001\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\drive-download-20210114T154053Z-001\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\drive-download-20210114T154053Z-001\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\drive-download-20210114T154053Z-001\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\drive-download-20210114T154053Z-001\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\drive-download-20210114T154053Z-001\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Downloads\Proyecto final 14-01-21\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Downloads\Proyecto final 14-01-21\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Downloads\Proyecto final 14-01-21\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Downloads\Proyecto final 14-01-21\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Downloads\Proyecto final 14-01-21\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Downloads\Proyecto final 14-01-21\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Downloads\Proyecto final 14-01-21\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Downloads\Proyecto final 14-01-21\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Downloads\Proyecto final 14-01-21\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto final 15\Proyecto final 15-01-21\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto final 15\Proyecto final 15-01-21\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 15\Proyecto final 15-01-21\Logica\obj\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto Final\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto Final\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto Final\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Proyecto Final\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto Final\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Proyecto Final\Proyecto final 15\Proyecto final 15-01-21\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Proyecto Final\Proyecto final 15\Proyecto final 15-01-21\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Proyecto Final\Proyecto final 15\Proyecto final 15-01-21\Logica\obj\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto Final\Proyecto final 15\Proyecto final 15-01-21\Logica\obj\Debug\Logica.pdb
+C:\Users\fabip\Desktop\Cosas nico\Proyecto final 19-01-21\Logica\bin\Debug\Logica.dll
+C:\Users\fabip\Desktop\Cosas nico\Proyecto final 19-01-21\Logica\bin\Debug\Logica.pdb
+C:\Users\fabip\Desktop\Cosas nico\Proyecto final 19-01-21\Logica\bin\Debug\Entidades.dll
+C:\Users\fabip\Desktop\Cosas nico\Proyecto final 19-01-21\Logica\bin\Debug\Persistencia.dll
+C:\Users\fabip\Desktop\Cosas nico\Proyecto final 19-01-21\Logica\bin\Debug\Entidades.pdb
+C:\Users\fabip\Desktop\Cosas nico\Proyecto final 19-01-21\Logica\bin\Debug\Persistencia.pdb
+C:\Users\fabip\Desktop\Cosas nico\Proyecto final 19-01-21\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\fabip\Desktop\Cosas nico\Proyecto final 19-01-21\Logica\obj\Debug\Logica.dll
+C:\Users\fabip\Desktop\Cosas nico\Proyecto final 19-01-21\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 22\Proyecto final 22-01-21\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 22\Proyecto final 22-01-21\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 22\Proyecto final 22-01-21\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto final 22\Proyecto final 22-01-21\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto final 22\Proyecto final 22-01-21\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto final 22\Proyecto final 22-01-21\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto final 22\Proyecto final 22-01-21\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto final 22\Proyecto final 22-01-21\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 22\Proyecto final 22-01-21\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 27\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 27\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 27\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto final 27\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto final 27\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto final 27\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto final 27\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto final 27\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 27\Logica\obj\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto final 27\Logica\bin\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto final 27\Logica\bin\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto final 27\Logica\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Proyecto final 27\Logica\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto final 27\Logica\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Proyecto final 27\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Proyecto final 27\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Proyecto final 27\Logica\obj\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto final 27\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 27(subido por nico)\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 27(subido por nico)\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 27(subido por nico)\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto final 27(subido por nico)\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto final 27(subido por nico)\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto final 27(subido por nico)\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto final 27(subido por nico)\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto final 27(subido por nico)\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 27(subido por nico)\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 28\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 28\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 28\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto final 28\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto final 28\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto final 28\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto final 28\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto final 28\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 28\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 29\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 29\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 29\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto final 29\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto final 29\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto final 29\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto final 29\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto final 29\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 29\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 01-02\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 01-02\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 01-02\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto final 01-02\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto final 01-02\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto final 01-02\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto final 01-02\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto final 01-02\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 01-02\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 02-02\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 02-02\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 02-02\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto final 02-02\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto final 02-02\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto final 02-02\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto final 02-02\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto final 02-02\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 02-02\Logica\obj\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Logica.pdb
+C:\Users\Administrador\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Entidades.dll
+C:\Users\Administrador\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Persistencia.dll
+C:\Users\Administrador\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Entidades.pdb
+C:\Users\Administrador\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Administrador\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\obj\Debug\Logica.dll
+C:\Users\Administrador\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\obj\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\obj\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto final 03-02\Proyecto final 03-02\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 04-02\Proyecto final 03-02\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 04-02\Proyecto final 03-02\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 04-02\Proyecto final 03-02\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto final 04-02\Proyecto final 03-02\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto final 04-02\Proyecto final 03-02\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto final 04-02\Proyecto final 03-02\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto final 04-02\Proyecto final 03-02\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto final 04-02\Proyecto final 03-02\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 04-02\Proyecto final 03-02\Logica\obj\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto final 05-02\Logica\bin\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto final 05-02\Logica\bin\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Proyecto final 05-02\Logica\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Proyecto final 05-02\Logica\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Proyecto final 05-02\Logica\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Proyecto final 05-02\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Proyecto final 05-02\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Proyecto final 05-02\Logica\obj\Debug\Logica.dll
+C:\Users\Dell\Desktop\Proyecto final 05-02\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 07-02\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 07-02\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 07-02\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto final 07-02\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto final 07-02\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto final 07-02\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto final 07-02\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto final 07-02\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 07-02\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 09-02\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 09-02\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 09-02\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto final 09-02\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto final 09-02\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto final 09-02\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto final 09-02\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto final 09-02\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 09-02\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 10-02\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 10-02\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 10-02\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto final 10-02\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto final 10-02\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto final 10-02\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto final 10-02\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto final 10-02\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 10-02\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 03-03\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 03-03\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Proyecto final 03-03\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Proyecto final 03-03\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Proyecto final 03-03\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Proyecto final 03-03\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Proyecto final 03-03\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Proyecto final 03-03\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Proyecto final 03-03\Logica\obj\Debug\Logica.pdb
